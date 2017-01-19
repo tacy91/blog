@@ -13,7 +13,7 @@ file.on('open',function(fd){
   console.log('开始读取数据');
 });
 file.data('data',function(data){
-  console.log('读取数据:');
+  console.log('读取到的数据:');
   console.log(data);
 });
 
