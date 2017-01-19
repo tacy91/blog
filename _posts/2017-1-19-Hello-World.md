@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 啊哦，First..Start..
+title: First..Start..
 ---
 
 
@@ -15,9 +15,9 @@ var file=fs.createReadStream('./message.txt');
 
 file.on('open',function(fd){  
 
-    console.log('开始读取数据');  
-  
-});  
+    console.log('开始读取数据');   
+   
+});  
 
 file.data('data',function(data){  
 
