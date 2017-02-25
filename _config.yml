@@ -7,7 +7,7 @@ name: tacy
 # Short bio or description (displayed in the header)
 description: 望向天空的孩子
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/tacy91/blog/blob/gh-pages/images/my-logo.png
+avatar: https:/raw.githubusercontent.com/tacy91/blog/gh-pages/images/my-logo.png
 
 #
 # Flags below are optional
