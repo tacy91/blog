@@ -4,7 +4,7 @@ title: Blogging Like a Hacker
 ---
 
 
- vue element页面
+vue element页面
   
   用vue和element ui框架建立的小页面  
   element ui框架能快速搭建类似后台管理的页面，其中有很多组件，很方便使用。  
