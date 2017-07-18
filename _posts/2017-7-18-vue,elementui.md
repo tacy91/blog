@@ -1,7 +1,8 @@
 ---
 layout: post
-title: vue+elementui页面实现
+title: Vue+elementui页面实现
 ---
+
 
 ## vue element页面
   
