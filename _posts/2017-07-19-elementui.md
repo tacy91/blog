@@ -2,6 +2,7 @@
 layout: post
 title:"vue+elementui页面"
 date: 2017-07-19 
+comments: true
 ---
 
 
