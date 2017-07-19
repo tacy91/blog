@@ -1,8 +1,15 @@
 ---
 layout: post
 title:Npm run dev报错
-sitemap:
-	priority:0.7
-	changefreq:'monthly'
-	lastmod:2017-7-19T10:04:30-05:00
+date: 2017-07-19 10:16:32+00:00
 ---
+
+
+ vue element页面
+  
+  用vue和element ui框架建立的小页面  
+  element ui框架能快速搭建类似后台管理的页面，其中有很多组件，很方便使用。  
+  ![Alt text](../images/vue3.png)  
+  
+  可以在页面中加入echart.js创建图表  
+  ![Alt text](../images/vue4.png) 
