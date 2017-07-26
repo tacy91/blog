@@ -1,0 +1,15 @@
+---
+layout: post
+title: "vue+elementui页面"
+date: 2017-07-19 
+comments: true
+---
+
+## Angular2 学习  
+### angular2的官方教程是一个很详细的简单应用，包括了Angular的核心内容。  
+  
+  可以实现搜索功能
+![Alt text](../images/he2.gif)  
+
+信息列表添加删除的功能  
+![Alt text](../images/he3.gif) 
