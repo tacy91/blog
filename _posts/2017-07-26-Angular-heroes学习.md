@@ -10,8 +10,10 @@ comments: true
   
 
   
-  ####可以实现搜索功能
+  可以实现搜索功能
 ![Alt text](../images/he2.gif)  
 
-信息列表添加删除的功能  
+
+ 信息列表添加删除的功能  
+
 ![Alt text](../images/he3.gif) 
