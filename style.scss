@@ -63,12 +63,7 @@ h4 {
   font-size: 18px;
   color: $gray;
 }
-.container h2{ 
-  color: #607D8B;
-} 
-.container h3{ 
-  color: #607D8B;
-} 
+
 
 p {
   margin: 15px 0;
@@ -290,9 +285,14 @@ footer {
 }
 
 .entry p{
-  color:#999;
+  color:#666;
 }
-
+.entry h2{ 
+  color: #607D8B;
+} 
+.entry h3{ 
+  color: #607D8B;
+} 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
